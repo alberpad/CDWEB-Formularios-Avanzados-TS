@@ -1,6 +1,6 @@
 # formularios-avanzados-ts
 
-## Proyeco del curso de Vue y Vuex impartido en:
+## Proyecto del curso de Vue y Vuex impartido en:
 
 [www.cursodesarrolloweb.es](https://www.cursosdesarrolloweb.es/)
 
